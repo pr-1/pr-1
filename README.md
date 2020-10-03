@@ -10,3 +10,6 @@ I like writing,sharing my knowledge with other engineers.
 - 👯 I’m looking to collaborate on open source Flutter projects 
 - 💬 Ask me about Flutter | Angular | Node and React
 - 📫 How to reach me: [Github](https://github.com/pr-1), [Blog](https://dev.to/pr1), [Twitter](https://twitter.com/prince19_97), [Linkedin](https://www.linkedin.com/in/pr-1/)
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr-1&layout=compact&theme=dark&show_all_langs=true" alt="pr-1" />
