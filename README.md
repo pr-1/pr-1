@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Graphql
 - 👯 I’m looking to collaborate on open source Flutter projects 
 - 💬 Ask me about Flutter | Angular | Node and React
-- 📫 How to reach me: [Github](https://github.com/pr-1), [Blog](https://dev.to/pr1), [Twitter](https://twitter.com/prince19_97), [Linkedin](https://www.linkedin.com/in/pr-1/)
+- 📫 How to reach me: [Google Authors](https://devlibrary.withgoogle.com/authors/prince17-ps6), [Github](https://github.com/pr-1), [Blog](https://dev.to/pr1), [Twitter](https://twitter.com/prince19_97), [Linkedin](https://www.linkedin.com/in/pr-1/) 
 
 <img src="https://github-readme-stats.vercel.app/api?username=pr-1&show_icons=true&theme=light&include_all_commits=true&count_private=true" alt="pr-1" />
 
