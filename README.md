@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr-1&label=Views&color=blue&style=plastic" alt="pr-1" /> </p>
 
-- 🔭 I’m currently working on [Explo](https://exploapp.com/), [KonnekApp](https://www.konnek.app/).
+- 🔭 I’m currently working on [Explo](https://exploapp.com/).
 - 🌱 I’m currently learning Graphql
 - 👯 I’m looking to collaborate on open source Flutter projects 
 - 💬 Ask me about Flutter | Angular | Node and React
